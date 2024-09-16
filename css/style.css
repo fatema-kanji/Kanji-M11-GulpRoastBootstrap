@@ -1,0 +1,97 @@
+.navbar{
+    background-color: #082B59 !important;
+    border-bottom: #D98555 10px solid;
+}
+
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    background-color: #082B59;
+}
+
+.logo-img{
+    width: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link{
+    color: #F2F2F2;
+    font-family: 'Lato', sans-serif;
+}
+
+.nav-link:hover{
+    color: #D98555;
+}
+
+.navbar-toggler-icon{
+    vertical-align: center;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+}
+
+.price{
+    font-family: 'Lato', sans-serif;
+    color: #D98555;
+    text-align: left;
+}
+
+h2{
+    font-family: 'Poppins';
+    text-align: left;
+}
+
+h4{
+    font-family: 'poppins';
+    padding-top: 5%;
+    text-align: left;
+}
+
+.g-col-12 {
+    margin: 5%;
+}
+
+.product{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: #59331D;
+    color:#F2F2F2;
+    display: block;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn:hover{
+    background-color: #D98555;
+}
+
+footer{
+    background-color: #082B59;
+    color: #F2F2F2;
+    border-top: #D98555 10px solid;
+    text-align: center;
+    padding: 10%;
+}
+
+.footer-data{
+    text-align: center;
+}
+
+strong{
+    color: #D98555;
+}
+
+.product-hero{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.g-col-md-6{
+    align-content: center;
+    margin: 5%;
+}
