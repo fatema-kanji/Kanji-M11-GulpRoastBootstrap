@@ -79,7 +79,7 @@ footer{
 }
 
 .footer-data{
-    text-align: center;
+    text-align: center !important;
 }
 
 strong{
